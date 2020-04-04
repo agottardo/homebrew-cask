@@ -32,6 +32,7 @@ cask 'adobe-acrobat-reader' do
                '~/Library/Preferences/com.adobe.Reader.plist',
                '~/Library/Preferences/com.adobe.AdobeRdrCEFHelper.plist',
                '~/Library/Preferences/com.adobe.crashreporter.plist',
+               '~/Library/Preferences/com.adobe.Synchronizer.DC.plist',
                '~/Library/Caches/com.adobe.Reader',
                '/Library/Preferences/com.adobe.reader.DC.WebResource.plist',
              ]
