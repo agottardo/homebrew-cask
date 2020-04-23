@@ -30,5 +30,9 @@ cask 'webex-meetings' do
                '~/Library/Caches/com.cisco.webexmeetingsapp',
                '~/Library/Caches/com.cisco.webexmta',
                '~/Library/Caches/com.cisco.webex.Cisco-WebEx-Start',
+               '~/Library/Caches/com.webex.meetingmanager',
+               '~/Library/Group Containers/group.com.cisco.webex.meetings',
+               '~/Library/Preferences/com.cisco.webex.Cisco-WebEx-Start.plist',
+               '~/Library/Preferences/com.webex.meetingmanager.plist',
              ]
 end
